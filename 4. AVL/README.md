@@ -57,6 +57,6 @@ gcc avl.c -o avl
 A imagem a seguir representa a inserção da sequência: 5, 6, 2 3, 1, 7 e 8. Observe que a árvore fica representada de lado.  
 
 <p align="center">
-  <img src="avl.png" alt="Árvore AVL">
+  <img src="print_avl.png" alt="Árvore AVL">
 </p>
 
