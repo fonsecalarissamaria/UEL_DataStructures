@@ -55,7 +55,7 @@ Quando o programa for executado, o usuário poderá escolher entre as seguintes 
 A árvore é impressa de lado, no exemplo abaixo inserimos respectivamente os valores: 5, 6, 2, 3, 1, 7, 8. A saída está impressa logo abaixo:
 
 <p align="center">
-  <img src="print_rubronegra" alt="Árvore Rubro Negra">
+  <img src="print_rubronegra.png" alt="Árvore Rubro Negra">
 </p>
 
 
