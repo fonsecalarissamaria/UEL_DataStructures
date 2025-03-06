@@ -118,13 +118,13 @@ Imprime os elementos da tabela hash, mostrando as posições e valores.
 1. Compile o programa:
 
    ```bash
-   gcc -o tabela_hash tabela_hash.c
+   gcc -o hash hash.c
    ```
 
 2. Execute o programa:
 
    ```bash
-   ./tabela_hash
+   ./hash
    ```
 
 3. O programa exibirá um menu com as seguintes opções:
