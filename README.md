@@ -2,10 +2,10 @@
 
 Este repositório contém implementações de várias estruturas de dados fundamentais, tais como:
 
-- **Tabela Hash**
-- **Algoritmo de Dijkstra**
-- **Árvore Rubro-Negra**
-- **Árvore AVL**
+- **1. Tabela Hash**
+- **2. Algoritmo de Dijkstra**
+- **3. Árvore Rubro-Negra**
+- **4. Árvore AVL**
 
 ## Funcionalidades
 
